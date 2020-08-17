@@ -6,5 +6,5 @@ def square_array(array)
     new_array.push(array[count]**2)
     count += 1
   end
-  print new_array
+  return new_array
 end
