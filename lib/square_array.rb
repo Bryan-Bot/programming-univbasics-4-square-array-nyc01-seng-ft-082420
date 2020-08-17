@@ -3,8 +3,8 @@ def square_array(array)
   new_array = []
   count = 0
   while count < array.length{
-    square = array[count]**2
-    new_array.push(square)
-    count += 1
+  #  square = array[count]**2
+    #new_array.push(square)
+    #count += 1
   }
 end
