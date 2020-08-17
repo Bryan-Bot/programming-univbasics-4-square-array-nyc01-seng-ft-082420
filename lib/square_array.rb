@@ -1,8 +1,8 @@
-def square_array(array)
+#def square_array(array)
   # your code here
-  count = 0
-  while count < array.length{
-    array[count]*array[count]
-    count += 1
-  }
-end
+  #count = 0
+  #while count < array.length{
+    #array[count]*array[count]
+    #count += 1
+  #}
+#end
